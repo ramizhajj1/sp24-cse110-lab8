@@ -1,6 +1,8 @@
 # Lab8-Starter  
 
-No partners  
+No partners    
+
+Github pages: https://ramizhajj1.github.io/sp24-cse110-lab8/
 
 
 Part 2:  
